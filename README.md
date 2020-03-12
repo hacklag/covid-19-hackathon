@@ -1,3 +1,5 @@
+![COVID-19 hackathon](covid19.png) 
+
 # Corona virus COVID-19 hackathon
 COVID-19 hackathon resources
 
