@@ -1,7 +1,10 @@
 ![COVID-19 hackathon](covid19.png) 
 
 # Corona virus COVID-19 hackathon
-COVID-19 hackathon resources
+Since we can't meet in person and we have a common enemy - coronavirus, I've come into an idea of creating the online hackathon. 
+Right now I'm trying to gather as many people and ideas as possible, so if you want to support the idea of fighting the virus with software join our slack (link below). 
+
+I believe that there are many things that we can do while we're sitting at our homes waiting for this pandemic to end. Let's #hackthevirus together!
 
 ## Hackathon kickstart call: 
 12.03.2020 20:15(GMT+1) https://meet.google.com/iyx-mtiw-gom
