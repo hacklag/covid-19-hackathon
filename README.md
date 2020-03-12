@@ -21,8 +21,9 @@ Join our slack: [COVID-19 hackathon](https://join.slack.com/t/2019-ncov-hackatho
 5. Tag your repository with `hackthevirus` phrase
 
 ## Ideas
-[Post an idea](https://docs.google.com/forms/d/e/1FAIpQLSe8mM1ggHnRRXkcebGBpSal0brssQkfnH2TN4pdypS-YuaL3Q/viewform?usp=sf_link)
-[Browse posted ideas](https://docs.google.com/spreadsheets/d/13O3dfyvI2fd7xnFRjH3VIA1PDk36DLkdaHkoEAxFLJE/edit?usp=sharing)
+> [Post an idea](https://docs.google.com/forms/d/e/1FAIpQLSe8mM1ggHnRRXkcebGBpSal0brssQkfnH2TN4pdypS-YuaL3Q/viewform?usp=sf_link)
+
+> [Browse posted ideas](https://docs.google.com/spreadsheets/d/13O3dfyvI2fd7xnFRjH3VIA1PDk36DLkdaHkoEAxFLJE/edit?usp=sharing)
 
 
 ## Projects
