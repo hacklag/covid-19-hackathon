@@ -7,6 +7,7 @@ COVID-19 hackathon resources
 Join our slack: [COVID-19 hackathon](https://join.slack.com/t/2019-ncov-hackathon/shared_invite/zt-ckubrfcx-PeBk8OgQuhE7ihNP8omQCg)
 
 ## Rules
+0. [#staythefuckhome](http://staythefuckhome.com)
 1. Be nice
 2. Be creative
 3. Hack the virus!
