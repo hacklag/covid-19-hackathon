@@ -3,6 +3,9 @@
 # Corona virus COVID-19 hackathon
 COVID-19 hackathon resources
 
+## Hackathon kickstart call: 
+12.03.2020 20:15(GMT+1) https://meet.google.com/iyx-mtiw-gom
+
 ## Slack
 Join our slack: [COVID-19 hackathon](https://join.slack.com/t/2019-ncov-hackathon/shared_invite/zt-ckubrfcx-PeBk8OgQuhE7ihNP8omQCg)
 
