@@ -1,29 +1,32 @@
 ![COVID-19 hackathon](covid19.png) 
 
 # Corona virus COVID-19 hackathon
-Since we can't meet in person and we have a common enemy - coronavirus, I've come into an idea of creating the online hackathon. 
-Right now I'm trying to gather as many people and ideas as possible, so if you want to support the idea of fighting the virus with software join our slack (link below). 
+Nie możemy się spotkać, ale możemy wspólnie działać!
+Organizujemy Hackathon* online, który połączy pomysły i rozwiązania technologiczne mogące pomóc w walce z koronawirusem i łagodzenie skutków pandemii. 
 
-I believe that there are many things that we can do while we're sitting at our homes waiting for this pandemic to end. Let's #hackthevirus together!
+Wszyscy mogą dołączyć! Nie tylko programiści i ludzie związani z IT - zapraszamy lekarzy,  grafików, marketingowców, PRowców, społeczników, samorządowców - wszystkich, którzy chcą konstruktywnie działać! Naszym wspólnym miejscem kontaktu i dyskusji jest grupa na facebooku: [#hackthevirus](https://www.facebook.com/groups/hackthevirus/)
+Dołącz teraz!
+
+*Hackathon to rodzaj zawodów dla programistów, podczas których uczestnicy rozwiązują określony problem (na przykład tworzą odpowiedni program) w krótkim czasie - zwykle w ciągu weekendu. Nasz hackathon jest trochę inny - nie rywalizujemy, tylko współdziałamy, a także jesteśmy otwarci na wszystkich - nie tylko programistów!
 
 
 ## Slack
-Join our slack: [COVID-19 hackathon](https://join.slack.com/t/2019-ncov-hackathon/shared_invite/zt-ckubrfcx-PeBk8OgQuhE7ihNP8omQCg)
+Dołącz do slacka: [COVID-19 hackathon slack](https://join.slack.com/t/2019-ncov-hackathon/shared_invite/zt-ckubrfcx-PeBk8OgQuhE7ihNP8omQCg)
 
-## Rules
+## Zasady
 0. [#staythefuckhome](http://staythefuckhome.com)
-1. Be nice
-2. Be creative
+1. Bądźcie mili
+2. Bądźcie kreatywni
 3. Hack the virus!
-4. There are no time limits 
-5. Tag your repository with `hackthevirus` phrase
+4. Nie ma limitu czasowego 
+5. Otaguj repozytorium tagiem `hackthevirus`
 
-## Ideas
-> [Post an idea](https://docs.google.com/forms/d/e/1FAIpQLSe8mM1ggHnRRXkcebGBpSal0brssQkfnH2TN4pdypS-YuaL3Q/viewform?usp=sf_link)
+## Pomysły
+> [Zgłoś pomysł](https://docs.google.com/forms/d/e/1FAIpQLSe8mM1ggHnRRXkcebGBpSal0brssQkfnH2TN4pdypS-YuaL3Q/viewform?usp=sf_link)
 
-> [Browse posted ideas](https://docs.google.com/spreadsheets/d/13O3dfyvI2fd7xnFRjH3VIA1PDk36DLkdaHkoEAxFLJE/edit?usp=sharing)
+> [Przeglądaj pomysły](https://docs.google.com/spreadsheets/d/13O3dfyvI2fd7xnFRjH3VIA1PDk36DLkdaHkoEAxFLJE/edit?usp=sharing)
 
 
-## Projects
+## Projekty
 
-The list of projects goes here... (add a new issue with link to your repository)
+Tutaj będzie lista projektów ;) 
