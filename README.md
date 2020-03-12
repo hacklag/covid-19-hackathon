@@ -1,8 +1,8 @@
-# 2019-nCoV-hackathon
-2019-nCoV-hackathon resources
+# Corona virus COVID-19 hackathon
+COVID-19 hackathon resources
 
 ## Slack
-Join our slack: [2019-ncov-hackathon](https://join.slack.com/t/2019-ncov-hackathon/shared_invite/zt-ckubrfcx-PeBk8OgQuhE7ihNP8omQCg)
+Join our slack: [COVID-19 hackathon](https://join.slack.com/t/2019-ncov-hackathon/shared_invite/zt-ckubrfcx-PeBk8OgQuhE7ihNP8omQCg)
 
 ## Rules
 1. Be nice
