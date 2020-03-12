@@ -8,6 +8,8 @@ Join our slack: [2019-ncov-hackathon](https://join.slack.com/t/2019-ncov-hackath
 1. Be nice
 2. Be creative
 3. Hack the virus!
+4. There are no time limits 
+5. Tag your repository with `hackthevirus` phrase
 
 ## Projects
 
