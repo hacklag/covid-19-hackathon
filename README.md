@@ -35,7 +35,7 @@ Tutaj będzie lista projektów ;)
 We can't meet, but we can work together!
 We organize Hackathon* online, which will combine ideas and technological solutions that can help fight coronavirus and mitigate the effects of a pandemic. 
 
-Everyone can join! Not only programmers and people related to IT - we invite doctors, graphic designers, marketers, PR specialists, social activists, local government officials - all who want to work constructively! Our common contact and discussion place is the Facebook group: [#hackthevirus] (https://www.facebook.com/groups/hackthevirus/)
+Everyone can join! Not only programmers and people related to IT - we invite doctors, graphic designers, marketers, PR specialists, social activists, local government officials - all who want to work constructively! Our common contact and discussion place is the Facebook group: [#hackthevirus](https://www.facebook.com/groups/hackthevirus/)
 Join now!
 
 *Hackathon is a type of competition for programmers in which participants solve a specific problem (for example, create the suitable program) in a short time - usually over the weekend. Our hackathon is a bit different - we don't compete, we only cooperate, and we are open to everyone - not just programmers!
