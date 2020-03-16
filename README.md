@@ -29,7 +29,9 @@ Dołącz do slacka: [COVID-19 hackathon slack](https://join.slack.com/t/2019-nco
 
 ## Projekty
 
-Tutaj będzie lista projektów ;)
+
+[remote-it-events - zbiór zdalnych spotkań IT](https://github.com/dominika-zajac/Remote-it-events)
+
 
 # Corona virus COVID-19 hackathon
 We can't meet, but we can work together!
@@ -60,4 +62,4 @@ Join the slack: [COVID-19 hackathon slack](https://join.slack.com/t/2019-ncov-ha
 
 ## Projects
 
-Here will be the list of projects ;)
+[remote-it-events - zbiór zdalnych spotkań IT](https://github.com/dominika-zajac/Remote-it-events)
